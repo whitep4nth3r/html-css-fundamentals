@@ -8,10 +8,10 @@
 
 #### What is a tag in HTML?
 
-A tag in HTML describes the content that lives inside it to a browser. A tag name is is written
-inside angled brackets `< >`. There are many different tags that exist in HTML to describe the
-content of the page. For example, a `<p>` tag describes a paragraph, a `<section>` tag describes a
-section, an `<li>` tag describes a list item, a `<label>` describes a form input label, and so on.
+A tag in HTML describes the content that lives inside it to a browser. A tag name is written inside
+angled brackets `< >`. There are many different tags that exist in HTML to describe the content of
+the page. For example, a `<p>` tag describes a paragraph, a `<section>` tag describes a section, an
+`<li>` tag describes a list item, a `<label>` describes a form input label, and so on.
 
 ```html
 <section>
