@@ -6,6 +6,15 @@
 
 ### Terminology
 
+#### What is HTML?
+
+HTML stands for HyperText Markup Language. It’s the standard markup language — or set of rules and
+symbols — for documents designed to be displayed in a web browser. You are (probably) currently
+viewing this README on a web page, which is built with HTML.
+
+To view the HTML, you can go into most browsers, right click on the web page, and click inspect.
+Then you’ll see the HTML displayed in dev tools.
+
 #### What is a tag in HTML?
 
 A tag in HTML describes the content that lives inside it to a browser. A tag name is written inside
@@ -22,8 +31,8 @@ the page. For example, a `<p>` tag describes a paragraph, a `<section>` tag desc
 </section>
 ```
 
-Most tags in HTML require an opening and closing tag to be valid, with some exceptions such as an
-`<img />` and `<input />` tag. Tags that do not require a closing tag are referred to as
+Most tags in HTML require an opening and closing tag to be valid, with some exceptions such as the
+`<img />` tag and `<input />` tag. Tags that do not require a closing tag are referred to as
 'self-closing' tags.
 
 - An opening paragraph tag: `<p>`
