@@ -15,6 +15,8 @@ viewing this README on a web page, which is built with HTML.
 To view the HTML, you can go into most browsers, right click on the web page, and click inspect.
 Then you’ll see the HTML displayed in dev tools.
 
+![screenshot of the right-click menu in Brave Browser](inspect_element.png)
+
 #### What is a tag in HTML?
 
 A tag in HTML describes the content that lives inside it to a browser. A tag name is written inside
